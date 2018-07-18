@@ -1,16 +1,14 @@
 # Welcome to Programming for Newbies
 
-
-
 ## What you will learn?
 
-### Week 1
+### [Week 1](week_1/notes.md)
 
-* What is a program?
-* What are different types of programs?
+* What is a computer program?
+* What are different types of computer programs?
 * Compiled vs Interpretted language
-* What are Identifiers?
 * What are keywords?
+* What are Identifiers?
 * Basic syntax
 * Variable types
 * Operators
