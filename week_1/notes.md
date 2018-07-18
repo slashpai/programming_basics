@@ -125,4 +125,5 @@ else:
     print ("Outstanding score")
 ```
 
+* Code examples can be found [here](code_examples)
 * Practice in [python shell](https://www.python.org/shell/)
